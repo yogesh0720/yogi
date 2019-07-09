@@ -13,7 +13,7 @@ for ($i=0; $i < count($arr); $i++) {
 	}
 
 }
-echo '<pre>';print_r($arr);
+echo '<pre>';var_dump($arr);
 
 for ($y=0; $y < ; $y++) { 
 	$a = 0;
